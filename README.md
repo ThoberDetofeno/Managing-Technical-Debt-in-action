@@ -17,8 +17,8 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 ## Summary
 
 
-[1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md)
-This research addresses the critical challenge of Technical Debt Management (TDM) in software development by proposing and implementing an incremental and evolutionary process, validated in a real industry context, to effectively manage technical debt, which is a significant issue affecting software quality, maintenance costs, and project success.
+[1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md): The research addresses the critical challenge of TDM in software development by proposing and implementing an incremental and evolutionary process, validated in a real industry context, to effectively manage technical debt, which is a significant issue affecting software quality, maintenance costs, and project success.
 
-[2. Background](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/2.%20Background.md)
-This chapter explores the Conceptual Model for Technical Debt (TD), including its properties, causes, consequences, and costs, while discussing the challenges and importance of Technical Debt Management (TDM) in software development projects, emphasizing the need for a systematic approach to identify, measure, and address TD to improve software quality and maintenance.
+[2. Background](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/2.%20Background.md): This chapter explores the Conceptual Model for Technical Debt, including its properties, causes, consequences, and costs, while discussing the challenges and importance of TDM in software development projects, emphasizing the need for a systematic approach to identify, measure, and address TD to improve software quality and maintenance.
+
+[3. Related Work](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/3.%20Related%20Work.md): The purpose of this text is to provide a literature review of related work in the field of TDM, summarizing key studies, frameworks, and findings from various researchers to establish context for further research in this area.
