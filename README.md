@@ -16,5 +16,6 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 
 ## Summary
 
+[1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md)
 
-
+[2. Background](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/2.%20Background.md)
