@@ -17,7 +17,7 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 ## Summary
 
 
-[1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md): This text introduce the critical challenge of Technical Debt Management (TDM) in software development. It proposes the implementation of an incremental and evolutionary process, validated in a real industrial context, to effectively manage Technical Debt. Technical debt is a significant issue that affects software quality, maintenance costs, and overall project success. The proposed approach aims to provide a practical solution for organizations seeking to mitigate the negative impacts of TD and improve their software development practices.
+[1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md): This text introduce the critical challenge of Technical Debt Management (TDM) in software development. It proposes the implementation of an incremental and evolutionary process, validated in a real industrial context, to effectively manage Technical Debt. The proposed approach aims to provide a practical solution for organizations seeking to mitigate the negative impacts of TD and improve their software development practices.
 
 [2. Background](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/2.%20Background.md): This chapter explores the Conceptual Model for Technical Debt, including its properties, causes, consequences, and costs, while discussing the challenges and importance of TDM in software development projects, emphasizing the need for a systematic approach to identify, measure, and address TD to improve software quality and maintenance.
 
