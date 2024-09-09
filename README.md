@@ -11,7 +11,7 @@ by Thober Detofeno, PhD
 
 <b>Conclusion:</b> The research presents a proposal for TDM with empirical evidence of use in the software industry. The process is detailed, as is the building path, the results are analyzed, and the decision-making processes are documented. This experience can help other software development companies in implementing TDM.
 
-## Keywords 
+### Keywords 
 Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Research on Technical Debt Management, Empirical studies in Technical Debt Management.
 
 ## Summary
@@ -31,8 +31,8 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 
 [7. Second Cycle](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/7.%20Action%20Research%20Second%20Cycle.md): The second cycle was a revision of the previous cycle, in which, besides implementing and evolving the TDM process, the prioritization of the source code was defined.
 
-[8. Technical Debt Management Proposal](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/8.%20TD%20Management%20Proposal.md): This section compiles our proposal for the TDM process and some strategies and tools resulting from the two action research cycles conducted over more than three years.
+[8. Technical Debt Management Proposal](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/8.%20TD%20Management%20Proposal.md): This section compiles our proposal for the TDM process and some strategies and tools resulting from the two action research cycles conducted over more than two years.
 
-[9. Conclusions](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/9.%20Conclusions.md): 
+[9. Conclusions](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/9.%20Conclusions.md): Section 9 presents the conclusion after approximately three years of study. 
 
 [REFERENCES](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/REFERENCES.md)
