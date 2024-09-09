@@ -1,0 +1,22 @@
+## 5. Context and Purpose
+
+This stage aimed to understand the environment, the stakeholders, the company objectives, and the research purposes. The context phase took three months to be completed.
+
+This research was developed in partnership with a software development company that sells a product fully available on the WEB in more than 40 countries worldwide. The procuct has documentation and localization for more than ten languages and compatible with three database management systems.
+
+The software development area uses the hybrid agile approach, combining the benefits of the agile philosophy with well-defined scope and deadlines. Project management and planning use the SCRUM methodology, divided into two-weeks cycles, but with a quarterly release to the market. This study focuses on the Evolutionary Maintenance sub-area, responsible for the evolution and maintenance of 38 product modules and is divided into 12 development teams, and each team has several approved and prioritized projects.
+
+The minimum a development team structure is one Product Owner, one Scrum Master, one Test Analyst, and two or more software developers. This research involved 82 professionals: 1 Director, 1 Inspection Coordinator, 12 Product Owners, 12 Scrum Masters, 44 Developers, and 12 Test Analysts.
+
+The focus of this research was on the source code developed in PHP, although it can be expanded to any language. PHP development at the company started in 2002. As of the start of this project, the company had 3,499,708 million lines of source code in PHP, which are under the responsibility of 12 development teams. All teams have PHP development, so this study directly affects all developers in the area. Other programming languages are not considered here, asthey are outside the project's scope.
+
+The graph presented in Fig. 2. shows the number of lines of PHP source code for which each team is responsible. As can be seen, T01 and T02 teams have the most significant amount of PHP source code under their responsibility.
+
+ 
+Fig. 2. The number of PHP source lines of code per team.
+All initiatives in this company must be aligned with the strategic planning. One of the strategic objectives that directly impact the Software Development area is to "Raise the level of productivity and quality in product development and launch". This objective aims to develop initiatives to improve quality and productivity in software development. Although the organization has Key Performance Indicators (KPI) to monitor the strategic goals, there is no KPI to monitor productivity. The following KPIs are used to monitor product quality and are being collected for more than five years:
+-	KPI1 – Total number of bugs identified by customers: number of bugs registered by active customers per version;
+-	KPI2 - Average bugs per customer: number of bugs registered by active customers divided by the number of active customers per version;
+-	KPI3 - Defect detection effectiveness: the effectiveness in detecting defects is collected with each product version. The percentage of effectiveness is the ratio of total defects found in the version divided by the defects found in the internal inspection of the product.
+
+This initiative started based on the concept that managing TD could lead to better software quality and productivity. However, it is essential to involve experts to decide the goals of TDM, help define the correct source code, and discuss the implications of managing TD on projects [28]. Once the company did not have any prior experience managing TD, as described by Detofeno et al. (2021) [34], a TD Guild was established to determine the necessary action plan. The TD Guild was composed of eight experienced professionals being two Product Owner, a Scrum Master, three Developers, a Test Analysts, and the Director of the area. As members of the TD Guild, the researchers presented the concepts of TD and the activities for TDM as an approach that could contribute to quality and productivity in software development.
