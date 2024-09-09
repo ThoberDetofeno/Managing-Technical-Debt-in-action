@@ -14,7 +14,7 @@ by Thober Detofeno, PhD
 ### Keywords 
 Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Research on Technical Debt Management, Empirical studies in Technical Debt Management.
 
-## Summary
+## Table of contents
 
 
 [1. Introduction](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/1.%20Introduction.md): This text introduce the critical challenge of Technical Debt Management (TDM) in software development. It proposes the implementation of an incremental and evolutionary process, validated in a real industrial context, to effectively manage Technical Debt. The proposed approach aims to provide a practical solution for organizations seeking to mitigate the negative impacts of TD and improve their software development practices.
