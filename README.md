@@ -24,3 +24,5 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 [3. Related Work](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/3.%20Related%20Work.md): The purpose of this text is to provide a literature review of related work in the field of TDM, summarizing key studies, frameworks, and findings from various researchers to establish context for further research in this area.
 
 [4. Research method](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/4.%20Research%20method.md): Describes the context and method used to conduct this study.
+
+[5. Context and Purpose](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/5.%20Context%20and%20Purpose.md): Understanding of the context in which the study was conducted, as well as the purpose of performing the work.
