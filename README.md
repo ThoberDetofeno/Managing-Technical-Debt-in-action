@@ -22,3 +22,5 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 [2. Background](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/2.%20Background.md): This chapter explores the Conceptual Model for Technical Debt, including its properties, causes, consequences, and costs, while discussing the challenges and importance of TDM in software development projects, emphasizing the need for a systematic approach to identify, measure, and address TD to improve software quality and maintenance.
 
 [3. Related Work](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/3.%20Related%20Work.md): The purpose of this text is to provide a literature review of related work in the field of TDM, summarizing key studies, frameworks, and findings from various researchers to establish context for further research in this area.
+
+[4. Research method](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/4.%20Research%20method.md)
