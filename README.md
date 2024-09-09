@@ -1,4 +1,4 @@
-# Managing technical debt in action: Process, Strategies and Tools
+# Managing Technical Debt in action: Process, Strategies and Tools
 by Thober Detofeno, PhD
 ## Abstract
 <b>Context:</b> Technical Debt (TD) is a metaphor that expresses the immaturity of software artifacts and their impacts on maintenance activities and product evolution. As organizations become able to identify and understand the effects of TD, challenges arise when making investment decisions to pay it off. Although several theoretical and practical studies have been developed recently, studies that adapt the context and stakeholders objectives for TD Management (TDM) are still lacking.
@@ -26,3 +26,13 @@ Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Re
 [4. Research method](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/4.%20Research%20method.md): Describes the context and method used to conduct this study.
 
 [5. Context and Purpose](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/5.%20Context%20and%20Purpose.md): Understanding of the context in which the study was conducted, as well as the purpose of performing the work.
+
+[6. First Cycle](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/6.%20Action%20Research%20First%20Cycle.md): The first cycle aimed to define and implement a model for TDM, which includes TD identification, monitoring, and payment.
+
+[7. Second Cycle](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/7.%20Action%20Research%20Second%20Cycle.md): The second cycle was a revision of the previous cycle, in which, besides implementing and evolving the TDM process, the prioritization of the source code was defined.
+
+[8. Technical Debt Management Proposal](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/8.%20TD%20Management%20Proposal.md): This section compiles our proposal for the TDM process and some strategies and tools resulting from the two action research cycles conducted over more than three years.
+
+[9. Conclusions](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/9.%20Conclusions.md): 
+
+[REFERENCES](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action/blob/main/REFERENCES.md)
