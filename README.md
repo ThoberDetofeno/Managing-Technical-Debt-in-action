@@ -1,5 +1,5 @@
 # Managing technical debt in action: Process, Strategies and Tools
-
+by Thober Detofeno, PhD
 ## Abstract
 Context: Technical Debt (TD) is a metaphor that expresses the immaturity of software artifacts and their impacts on maintenance activities and product evolution. As organizations become able to identify and understand the effects of TD, challenges arise when making investment decisions to pay it off. Although several theoretical and practical studies have been developed recently, studies that adapt the context and stakeholders objectives for TD Management (TDM) are still lacking.
 
