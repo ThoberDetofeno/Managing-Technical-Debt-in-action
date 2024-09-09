@@ -1,6 +1,6 @@
 ## REFERENCES
 
-[1] 	P. Ciancarini and D. Russo, **“The Strategic Technical Debt Management Model: An Empirical Proposal”**, IFIP International Conference on Open Source Systems, 2020.
+[1] 	P. Ciancarini and D. Russo, *“The Strategic Technical Debt Management Model: An Empirical Proposal”*, IFIP International Conference on Open Source Systems, 2020.
 
 [2] 	P. Antonellis, D. Antoniou, Y. Kanellopoulos, C. Makris, E. Theodoridis, C. Tjortjis and N. Tsirakis, *“Clustering for monitoring software systems maintainability evolution”*, Electronic Notes in Theoretical Computer Science, 2009.
 
