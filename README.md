@@ -11,7 +11,10 @@ by Thober Detofeno, PhD
 
 <b>Conclusion:</b> The research presents a proposal for TDM with empirical evidence of use in the software industry. The process is detailed, as is the building path, the results are analyzed, and the decision-making processes are documented. This experience can help other software development companies in implementing TDM.
 
-## Keywords: 
+## Keywords 
 Technical Debt, Technical Debt Management, Source Code Technical Debt, Action Research on Technical Debt Management, Empirical studies in Technical Debt Management.
+
+## Summary
+
 
 
